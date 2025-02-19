@@ -16,9 +16,10 @@ There are two display modes that switch automatically:
      - Last lap delta time coloured on player last lap time
      - Pit status: number of pits, last duration in pit, laps since last pit
      
-  Colouring Green:  means you (the player) are faster.<br/>
-            Red:    means that this driver is faster than you.<br/>
-            Purple: means the fastest time.<br/>
+  Colouring<br/>
+    - Green:&nbsp;&nbsp;means you (the player) are faster.<br/>
+    - Red:&nbsp;&nbsp;&nbsp;&nbsp;means that this driver is faster than you.<br/>
+    - Purple:&nbsp;means the fastest time.<br/>
 
 ![SDH-LeaderboardDashRaceMode Image](SDH-LeaderboardDash_RaceMode.png?raw=true "SDH-LearderboardDash Race Mode")
 
