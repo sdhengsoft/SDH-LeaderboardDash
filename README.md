@@ -4,9 +4,6 @@ SDH-LeaderboardDash is an eRacing leaderboard dash for SimHub
 - Main page: https://github.com/sdhengsoft/SDH-LeaderboardDash
 - Download page: https://github.com/sdhengsoft/SDH-LeaderboardDash/releases
 
-![SDH-LeaderboardDashRaceMode Image](SDH-LeaderboardDash_RaceMode.png?raw=true "SDH-LearderboardDash Race Mode")
-![SDH-LeaderboardDashSectorMode Image](SDH-LeaderboardDash_SectorMode.png?raw=true "SDH-LearderboardDash Sector Mode")
-
 There are two display modes that switch automatically:
 
   1. Race mode with the following column information:
@@ -19,12 +16,16 @@ There are two display modes that switch automatically:
      - Last lap delta time coloured on player last lap time
      - Pit status: number of pits, last duration in pit, laps since last pit
 
+![SDH-LeaderboardDashRaceMode Image](SDH-LeaderboardDash_RaceMode.png?raw=true "SDH-LearderboardDash Race Mode")
+
   2. Sector mode with following column information:
      - Pit, Outlap and Garage status tags
      - Driver name
      - Best lap time coloured on player best lap time
      - Best lap delta time coloured on player best lap time
      - Best sector times coloured on player best sector times
+
+![SDH-LeaderboardDashSectorMode Image](SDH-LeaderboardDash_SectorMode.png?raw=true "SDH-LearderboardDash Sector Mode")
 
 ## Note ##
 SDH-LeaderboardDash is not eRacing Sim specific. HUD has only been tested with
