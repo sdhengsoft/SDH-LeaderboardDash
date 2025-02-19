@@ -15,6 +15,10 @@ There are two display modes that switch automatically:
      - Relative gap time from player
      - Last lap delta time coloured on player last lap time
      - Pit status: number of pits, last duration in pit, laps since last pit
+     
+  Colouring Green:  means you (the player) are faster.
+            Red:    means that this driver is faster than you.
+            Purple: means the fastest time.
 
 ![SDH-LeaderboardDashRaceMode Image](SDH-LeaderboardDash_RaceMode.png?raw=true "SDH-LearderboardDash Race Mode")
 
@@ -33,7 +37,7 @@ R3E, AMS2, AC and iRacing.
 
 ## Installation ##
 
-- Install SimHub V-9.1.0 or greater(https://www.simhubdash.com)
+- Install SimHub V-9.1.0 or greater (https://www.simhubdash.com)
 - Import SDH-LeaderboardDash by double-clicking "SDH-LeaderboardDash-x.yy.simhubdash" file.
   Download latest version from: https://github.com/sdhengsoft/SDH-LeaderboardDash/releases
 
