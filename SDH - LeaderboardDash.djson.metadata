@@ -1,0 +1,21 @@
+{
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [],
+  "MainPreviewIndex": 0,
+  "IsOverlay": false,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": [],
+  "SimHubVersion": "9.7.3",
+  "Category": null,
+  "Title": "SDH - LeaderboardDash",
+  "Description": null,
+  "Author": null,
+  "Width": 750.0,
+  "Height": 600.0,
+  "DashboardVersion": ""
+}
