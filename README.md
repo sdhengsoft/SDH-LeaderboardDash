@@ -42,6 +42,9 @@ R3E, AMS2, AC and iRacing.
 - Import SDH-LeaderboardDash by double-clicking "SDH-LeaderboardDash-x.yy.simhubdash" file.
   Download latest version from: https://github.com/sdhengsoft/SDH-LeaderboardDash/releases
 
+## My Other SimHub Goodies ##
+Try SDH-HUD... an eRacing overlay for SimHub (https://github.com/sdhengsoft/SDH-HUD)
+
 ## Licence ##
 
 SDH-LeaderboardDash is released under MIT licence:
