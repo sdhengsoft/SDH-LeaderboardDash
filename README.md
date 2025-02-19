@@ -28,7 +28,7 @@ There are two display modes that switch automatically:
 ![SDH-LeaderboardDashSectorMode Image](SDH-LeaderboardDash_SectorMode.png?raw=true "SDH-LearderboardDash Sector Mode")
 
 ## Note ##
-SDH-LeaderboardDash is not eRacing Sim specific. HUD has only been tested with
+SDH-LeaderboardDash is not eRacing Sim specific. The leaderboard has only been tested with
 R3E, AMS2, AC and iRacing.
 
 ## Installation ##
