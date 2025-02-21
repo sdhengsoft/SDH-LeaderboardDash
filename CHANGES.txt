@@ -1,2 +1,8 @@
+2025.02.22 V-1.01
+  - Added split delta time column to Sector Mode. This monitors a drivers current split delta as it comes in and compares
+    it to the players best time and provides status colour.
+  - Sector time is undelined if driver is currently in that sector.
+  - Driver name is coloured on class type if available.
+
 2025.02.19 V-1.00
   - Initial release

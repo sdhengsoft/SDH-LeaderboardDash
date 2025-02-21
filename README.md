@@ -1,33 +1,35 @@
 # SDH-LeaderboardDash
 
-SDH-LeaderboardDash is an eRacing leaderboard dash for SimHub
+SDH-LeaderboardDash is an eRacing relative leaderboard dash for SimHub
 - Main page: https://github.com/sdhengsoft/SDH-LeaderboardDash
 - Download page: https://github.com/sdhengsoft/SDH-LeaderboardDash/releases
 
-There are two display modes that switch automatically:
+There are two display modes that switch automatically depending on session type.
+Either RACE mode (during a detected race) or SECTOR mode (for practice and qualifying):
 
   1. Race mode with the following column information:
      - Pit, Outlap and Garage status tags
      - Positions gained/lost status
      - Driver name
-     - Best lap time coloured on player best lap time
-     - Best lap delta time coloured on player best lap time
-     - Relative gap time from player
-     - Last lap delta time coloured on player last lap time
-     - Pit status: number of pits, last duration in pit, laps since last pit
+     - Best lap time coloured relative to player best lap time
+     - Best lap delta time relative to player best lap time
+     - Relative gap time to player
+     - Relative split time to player when available
+     - Last lap delta time coloured relative to player last lap time
+     - Pit status: number of pitstops, duration of last pitstop, laps since last pitstop
      
   Colouring<br/>
     - Green:&nbsp;&nbsp;means you (the player) are faster.<br/>
-    - Red:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;means that this driver is faster than you.<br/>
+    - Red:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;means that this driver is faster than you.<br/>
     - Purple:&nbsp;means the fastest time.<br/>
 
 ![SDH-LeaderboardDashRaceMode Image](SDH-LeaderboardDash_RaceMode.png?raw=true "SDH-LearderboardDash Race Mode")
 
-  2. Sector mode with following column information:
+  2. Sector mode with the following column information:
      - Pit, Outlap and Garage status tags
      - Driver name
-     - Best lap time coloured on player best lap time
-     - Best lap delta time coloured on player best lap time
+     - Best lap time coloured relative to player best lap time
+     - Best lap delta time relative to player best lap time
      - Best sector times coloured on player best sector times
 
 ![SDH-LeaderboardDashSectorMode Image](SDH-LeaderboardDash_SectorMode.png?raw=true "SDH-LearderboardDash Sector Mode")
