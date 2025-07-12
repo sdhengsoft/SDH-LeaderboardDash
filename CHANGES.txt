@@ -1,3 +1,6 @@
+2025.07.12 V-1.03
+  - Sector 3 now includes all extra sectors from 3 to N.
+
 2025.02.22 V-1.02
   - Added class position to position column in the form P.C for multiclass.
   - Minor update to pit status header label.
@@ -13,3 +16,14 @@
 
 2025.02.19 V-1.00
   - Initial release
+
+
+var sectorCount = $prop( 'SectorsCount');
+var driverPos   = $prop( 'Position');
+var sTime       = 0;
+
+if ( driverPos == 0) {
+  driverPos = 1;
+}
+
+for ( let i = 3; i <= sectorCount; ++i) {
