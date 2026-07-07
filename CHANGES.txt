@@ -1,3 +1,7 @@
+2025.07.07 V-1.04
+  - Fixed error messages caused by calling a bestlap function before a valid best lap available.
+  - iRacing+: Tracks with greater than 3 sectors are reduced to 3 even sectors by combining sectors.
+
 2025.07.12 V-1.03
   - Sector 3 now includes all extra sectors from 3 to N.
 
@@ -16,14 +20,3 @@
 
 2025.02.19 V-1.00
   - Initial release
-
-
-var sectorCount = $prop( 'SectorsCount');
-var driverPos   = $prop( 'Position');
-var sTime       = 0;
-
-if ( driverPos == 0) {
-  driverPos = 1;
-}
-
-for ( let i = 3; i <= sectorCount; ++i) {
