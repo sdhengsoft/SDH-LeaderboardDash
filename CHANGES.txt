@@ -1,4 +1,7 @@
-2025.07.07 V-1.04
+2026.07.07 V-1.05
+  - iRacing: Minor update to sector splitting method (using round() instead of trunc()).
+
+2026.07.07 V-1.04
   - Fixed error messages caused by calling a bestlap function before a valid best lap available.
   - iRacing+: Tracks with greater than 3 sectors are reduced to 3 even sectors by combining sectors.
 
